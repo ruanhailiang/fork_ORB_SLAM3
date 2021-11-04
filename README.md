@@ -1,4 +1,3 @@
-# fork_ORB_SLAM3
 # ORB-SLAM3
 
 ### V0.4: Beta version, 21 April 2021
